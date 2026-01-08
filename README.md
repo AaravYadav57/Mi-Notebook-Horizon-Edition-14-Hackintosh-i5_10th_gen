@@ -5,6 +5,8 @@
 
 This repositery is a Documentation / Guide on how to install macOS on the Mi Notebook 14 Horizon Edition. The below Guide I prepared a simple way on how you can get started with a hackintosh on your Mi Notebook 14 Horizon edition, This guide not only talks about the basic installation steps but also talks about the problems that you are to encounter during the installation process.
 
+#Credits:SuperAviation001 and AaravYadav57
+
 # So, Lets Begin!
 
 First lets talk about what works and what dosent
